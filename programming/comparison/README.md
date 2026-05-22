@@ -14,6 +14,9 @@
 | C# | 静态 | JIT | 快 | ⭐⭐⭐ | 游戏/企业/.NET |
 | Kotlin | 静态 | JIT | 快 | ⭐⭐⭐ | 安卓/后端 |
 | Swift | 静态 | 编译 | 快 | ⭐⭐ | iOS/Mac |
+| Ruby | 动态 | 解释 | 中 | ⭐⭐ | Web/脚本/原型 |
+| PHP | 动态 | 解释 | 中 | ⭐⭐ | Web 后端 |
+| C++ | 静态 | 编译 | 极快 | ⭐⭐⭐⭐ | 游戏/高频/系统 |
 | SQL | 声明式 | — | — | ⭐ | 数据查询 |
 | Bash | 动态 | 解释 | — | ⭐ | 自动化/运维 |
 
@@ -31,6 +34,8 @@
 | 系统编程 | **Rust** / **C** | Zig |
 | 数据分析 | **Python** / **SQL** | R |
 | 游戏开发 | **C#**(Unity) / **C++**(Unreal) | Rust |
+| Web 后端 (快速) | **Ruby**(Rails) / **PHP**(Laravel) | Python(Django) |
+| 企业后端 | **Java**(Spring) / **C#**(.NET) | Go |
 | 自动化脚本 | **Python** / **Bash** | Go |
 
 ## 为什么学多种语言？
