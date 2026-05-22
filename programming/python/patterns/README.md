@@ -1,0 +1,27 @@
+# Python 设计模式
+
+## 创建型 (Creational)
+- [ ] 单例 (Singleton)
+- [ ] 工厂方法 (Factory Method)
+- [ ] 抽象工厂 (Abstract Factory)
+- [ ] 建造者 (Builder)
+- [ ] 原型 (Prototype)
+
+## 结构型 (Structural)
+- [ ] 适配器 (Adapter)
+- [ ] 装饰器 (Decorator)
+- [ ] 代理 (Proxy)
+- [ ] 外观 (Facade)
+- [ ] 桥接 (Bridge)
+- [ ] 组合 (Composite)
+- [ ] 享元 (Flyweight)
+
+## 行为型 (Behavioral)
+- [ ] 策略 (Strategy)
+- [ ] 观察者 (Observer)
+- [ ] 命令 (Command)
+- [ ] 模板方法 (Template Method)
+- [ ] 迭代器 (Iterator)
+- [ ] 责任链 (Chain of Responsibility)
+- [ ] 状态 (State)
+- [ ] 备忘录 (Memento)
